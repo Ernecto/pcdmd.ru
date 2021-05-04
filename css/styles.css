@@ -1,0 +1,71 @@
+.offer {
+  margin: 3% 0;
+  line-height: 1.5;
+  text-align: left;
+}
+.myclose{
+  margin-top: 3%;
+}
+.mylogo {
+  width: 50px;
+  height: 50px;
+  margin: 0 3%;
+}
+.mynavbar{
+  padding: 0;
+}
+#mainNav{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#navbarResponsive{
+  text-align: center;
+}
+@media (min-width: 991.98px){
+  .mylogo2{
+    width: 200px;
+    padding: 0;
+  }
+
+}
+.form-group{
+  text-align: center;
+}
+.contacts {
+  padding: 3%;
+  text-align: center;
+}
+.aboutphone {
+  padding: 10%;
+}
+#contactForm {
+  margin: 3% 10%;
+}
+.writemetext{
+  padding: 3%;
+  text-align: center;
+  line-height: 2;
+}
+.myhitext{
+  line-height: 5rem;
+  padding: 3% 0;
+}
+@media (max-width:991.98px){
+  .myhitext{
+    line-height: 1.2!important;
+  }
+}
+.masthead {
+    padding-top: calc(1% + 74px)!important;
+    padding-bottom: 3rem;
+  }
+/* AVATAR */
+.avatar{
+  width: 50%;
+
+}
+@media (min-width: 1199.98px){
+  .avatar{
+    width: 30%;
+  }
+}
